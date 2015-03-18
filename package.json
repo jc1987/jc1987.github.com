@@ -1,0 +1,16 @@
+{
+  "name": "jc1987.github.com",
+  "version": "1.0.0",
+  "description": "front page for github",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jc1987/jc1987.github.com.git"
+  },
+  "author": "jc1987",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jc1987/jc1987.github.com/issues"
+  },
+  "homepage": "https://github.com/jc1987/jc1987.github.com"
+}
