@@ -3,13 +3,13 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Poole
-tagline:          The Jekyll Butler
-url:              http://getpoole.com
+title:            jc1987
+tagline:          malaysian web developer
+url:              http://jc1987.github.io
 paginate:         1
 baseurl:          /
 author:
-  name:           Mark Otto
+  name:
   url:            https://twitter.com/mdo
   email:          markdotto@gmail.com
 
