@@ -4,7 +4,7 @@ relative_permalinks: false
 
 # Setup
 title:            jc1987
-tagline:          malaysian web developer
+tagline:          software developer
 url:              http://jc1987.github.io
 paginate:         1
 baseurl:          /
